@@ -1,4 +1,6 @@
-## Hi there 👋
+"Rome wasn't built in a day"
+
+but they didn't have claude code
 
 <!--
 **dhruvchatrani/dhruvchatrani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
