@@ -1,5 +1,6 @@
-Rome wasn't built in a day<br>
-they were out of tokens. 
+"Everyone says hi how are you and never ai how are you"
+<!--Rome wasn't built in a day<br>
+they were out of tokens. -->
 <!--but they didn't have claude code-->
 
 <!--
