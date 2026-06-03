@@ -1,7 +1,5 @@
-"Everyone says hi how are you and never ai how are you"
-<!--Rome wasn't built in a day<br>
-they were out of tokens. -->
-<!--but they didn't have claude code-->
+Rome wasn't built in a day<br>
+but they didn't have claude. 
 
 <!--
 **dhruvchatrani/dhruvchatrani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
